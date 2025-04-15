@@ -4,7 +4,7 @@
 # DIA, NOCHE y el valor final a pagar (ver ejemplos de ejecución). 
 #Se debe informar al cliente si excede o no de los minutos y de cuanto es la cuenta
 #A continuación 2 ejemplo de ejecución del sistema que se pide.
-
+# ESTE ES MI COMENTARO
 print("compañia telefonica")
 md=int(input("ingrese la cantidad de minutos hablados por el dia: "))
 mn=int(input("ingrese la cantidad de minutos hablados por la noche: "))
